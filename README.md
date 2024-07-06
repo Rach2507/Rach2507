@@ -57,7 +57,7 @@ Python functions were developed to calculate and visually present sales data by 
 This report presents findings from an exploratory analysis of Twitter data aimed at understanding public sentiment toward Nike.
 
 **💻 Code:**  
-[`Brand Analysis using Twitter`](https://github.com/Rach2507/Data-Analytics/blob/main/20543476_BUSI4370_2023-2024.pdf)
+[`Brand Analysis using Twitter`](https://github.com/Rach2507/Twitter-Analysis/blob/main/ASA_Coursework_20543476%20(1).ipynb)
 
 **📝 Description:**  
 The dataset includes 3,000 tweets collected from Twitter that represent discussions about the Nike brand. The records include their characteristics such as attack, defense, type, and size. The project includes the following steps:
