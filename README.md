@@ -113,5 +113,5 @@ Created Tableau visualisations to compare customer activity, acquisition, retent
 # 📫 Connect with Me
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/rachaeldm2507/
-* 💻 **GitHub:** 
+* 💻 **GitHub:** https://github.com/Rach2507
 * 📧 **Email:** rachael.manjaly@gmail.com
