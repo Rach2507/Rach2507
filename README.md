@@ -1,4 +1,4 @@
-# Hey, I'm Rachael Manjaly! 👋
+# Hey, I'm Rachael M! 👋
 
 **Data Analyst | MSc Business Analytics | SQL | Python | Power BI | Tableau**
 
