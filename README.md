@@ -16,7 +16,7 @@ I enjoy solving business problems using a combination of analytical thinking, te
 
 Customer analytics project analysing **3,000 customers** to identify purchasing patterns and create **6 customer segments** using feature engineering, PCA and K-Means clustering.
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/Retail-Customer-Analytics]
 
 ### 💰 N/LAB Platinum Deposit — Customer Subscription Prediction
 
@@ -24,13 +24,13 @@ Predictive analytics project analysing **4,000 customer records** and comparing 
 
 🏆 **Naïve Bayes achieved the highest precision of 0.86.**
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/N-LAB-Platinum-Deposit-Prediction]
 
 ### 🥫 Food Bank Demand Analysis & Forecasting
 
 Machine learning project analysing approximately **10,000 food bank records** to forecast weekly demand and support resource and inventory planning.
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/Food-Bank-Demand-Analysis]
 
 ### 👟 Nike Brand & Social Media Analysis
 
@@ -38,7 +38,7 @@ NLP and social media analytics project analysing **3,000 Nike-related tweets** t
 
 📊 **2,843 tweets were classified as positive.**
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/Nike-Brand-Analytics]
 
 ---
 
@@ -50,7 +50,7 @@ SQL analytics project analysing customer behaviour across **4 stores** using **7
 
 🎯 **Recommended Store 1 for additional marketing investment based on its growth opportunity.**
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/FoodCorp-Store-Customer-Analytics]
 
 ### 🥫 Food Bank Demand Analysis & Forecasting
 
@@ -58,21 +58,10 @@ Used **SQL and PySpark** to transform operational food bank data, engineer analy
 
 **Skills demonstrated:** SQL | Data Transformation | Feature Engineering | PySpark | Databricks
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/Food-Bank-Demand-Analysis]
 
 ---
 
-## 📊 Power BI Projects
-
-### 📈 Power BI Analytics & Business Intelligence
-
-Developed business-focused analytical solutions using **Power BI, DAX and Power Query**, transforming data into interactive dashboards and actionable KPIs.
-
-**Skills demonstrated:** Power BI | DAX | Power Query | Data Modelling | KPI Development | Data Visualisation
-
-🔗 **Repository:** [Add Repository Link]
-
----
 
 ## 📊 Tableau Projects
 
@@ -82,7 +71,7 @@ Created Tableau visualisations to compare customer activity, acquisition, retent
 
 **Skills demonstrated:** Tableau | KPI Development | Customer Analytics | Churn Analysis | Cohort Analysis | Business Storytelling
 
-🔗 **Repository:** [Add Repository Link]
+🔗 **Repository:** [https://github.com/Rach2507/FoodCorp-Store-Customer-Analytics]
 
 ---
 
@@ -123,6 +112,6 @@ Created Tableau visualisations to compare customer activity, acquisition, retent
 
 # 📫 Connect with Me
 
-* 💼 **LinkedIn:** [Add LinkedIn Link]
-* 💻 **GitHub:** [Add GitHub Link]
-* 📧 **Email:** [Add Email]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/rachaeldm2507/
+* 💻 **GitHub:** 
+* 📧 **Email:** rachael.manjaly@gmail.com
