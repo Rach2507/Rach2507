@@ -1,76 +1,128 @@
-## Hi, I'm Rachael 👋
+# Hey, I'm Rachael Manjaly! 👋
 
-<img src="https://media.licdn.com/dms/image/D4D03AQEGIlFV5LGqzA/profile-displayphoto-shrink_400_400/0/1697709928729?e=1725494400&v=beta&t=vc1PliOhXUDLXRCO3ofVqN6zkRInsM5Jf3hXaJ7r5EU" alt="Rachael" align="right" width="150" style="margin-left: 10px;"/>
+**Data Analyst | MSc Business Analytics | SQL | Python | Power BI | Tableau**
 
-👩🏻‍💻 Data Analyst sharing about my journey and learnings in tech <br/>
-👩🏻‍🎓 Studied Computer Science at Xavier Institute of Engineering, India <br/>
-🌷 #learninginpublic in my digital garden <br/>
-💭 Currently learning about data analytics and dataviz! <br/>
+I am a Data Analyst with a background in Computer Science and Business Analytics, focused on transforming data into actionable business insights. My work spans **data analysis, business intelligence, customer analytics, predictive modelling, dashboard development and data engineering**.
 
-<a href="https://uk.linkedin.com/in/rachaeldm2507"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:rachael.manjaly@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<br>
+I enjoy solving business problems using a combination of analytical thinking, technical skills and clear data storytelling.
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
 
-### 📊 Tech Store Sales Analysis
+# Projects 🚀
 
-**🎯 Goal:**  
-To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+## 🐍 Python Projects
 
-**💻 Code:**  
-[`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+### 🛒 Customer Segmentation & Behaviour Analytics
 
-**📝 Description:**  
-The dataset contains a list of sales records, including products for sale and order information (order ID, order date, price, quantity ordered, and purchase address). The project includes the following steps:
-- 📥 Data loading
-- 🧹 Data cleaning and preprocessing
-- 🔍 Exploratory Data Analysis (EDA)
-- 📊 Analyzing sales data
-- 📐 Hypothesis testing
+Customer analytics project analysing **3,000 customers** to identify purchasing patterns and create **6 customer segments** using feature engineering, PCA and K-Means clustering.
 
-**🛠 Skills:**  
-Data cleaning, data analysis, hypothesis testing, and data visualization.
+🔗 **Repository:** [Add Repository Link]
 
-**💡 Technology:**  
-Python, Pandas, Matplotlib.
+### 💰 N/LAB Platinum Deposit — Customer Subscription Prediction
 
-**📈 Results:**  
-Python functions were developed to calculate and visually present sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+Predictive analytics project analysing **4,000 customer records** and comparing classification models to identify customers most likely to subscribe to a savings product.
 
-### 🐦 Brand Analysis using Twitter
+🏆 **Naïve Bayes achieved the highest precision of 0.86.**
 
-**🎯 Goal:**  
-This report presents findings from an exploratory analysis of Twitter data aimed at understanding public sentiment toward Nike.
+🔗 **Repository:** [Add Repository Link]
 
-**💻 Code:**  
-[`Brand Analysis using Twitter`](https://github.com/Rach2507/Twitter-Analysis/blob/main/ASA_Coursework_20543476%20(1).ipynb)
+### 🥫 Food Bank Demand Analysis & Forecasting
 
-**📝 Description:**  
-The dataset includes 3,000 tweets collected from Twitter that represent discussions about the Nike brand. The records include their characteristics such as attack, defense, type, and size. The project includes the following steps:
-- 📥 Data loading
-- 🧹 Data cleaning
-- 🔍 Exploratory Data Analysis (EDA)
-- 📊 Analyzing characteristics of different brands
+Machine learning project analysing approximately **10,000 food bank records** to forecast weekly demand and support resource and inventory planning.
 
-**🛠 Skills:**  
-Data cleaning, data analysis, data visualization.
+🔗 **Repository:** [Add Repository Link]
 
+### 👟 Nike Brand & Social Media Analysis
 
+NLP and social media analytics project analysing **3,000 Nike-related tweets** to identify sentiment, consumer interests, product trends and influencer opportunities.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+📊 **2,843 tweets were classified as positive.**
+
+🔗 **Repository:** [Add Repository Link]
+
+---
+
+## 🗄️ SQL & Database Projects
+
+### 🛒 FoodCorp — Customer & Store Performance Analytics
+
+SQL analytics project analysing customer behaviour across **4 stores** using **7 KPIs**, including active customers, repeat customers, churn and cohort retention.
+
+🎯 **Recommended Store 1 for additional marketing investment based on its growth opportunity.**
+
+🔗 **Repository:** [Add Repository Link]
+
+### 🥫 Food Bank Demand Analysis & Forecasting
+
+Used **SQL and PySpark** to transform operational food bank data, engineer analytical features and prepare datasets for demand forecasting.
+
+**Skills demonstrated:** SQL | Data Transformation | Feature Engineering | PySpark | Databricks
+
+🔗 **Repository:** [Add Repository Link]
+
+---
+
+## 📊 Power BI Projects
+
+### 📈 Power BI Analytics & Business Intelligence
+
+Developed business-focused analytical solutions using **Power BI, DAX and Power Query**, transforming data into interactive dashboards and actionable KPIs.
+
+**Skills demonstrated:** Power BI | DAX | Power Query | Data Modelling | KPI Development | Data Visualisation
+
+🔗 **Repository:** [Add Repository Link]
+
+---
+
+## 📊 Tableau Projects
+
+### 🛒 FoodCorp — Customer & Store Performance Analytics
+
+Created Tableau visualisations to compare customer activity, acquisition, retention, churn and cohort performance across four stores.
+
+**Skills demonstrated:** Tableau | KPI Development | Customer Analytics | Churn Analysis | Cohort Analysis | Business Storytelling
+
+🔗 **Repository:** [Add Repository Link]
+
+---
+
+# 🛠️ Core Technical Stack
+
+* **Programming & Data Processing:** Python, SQL, Pandas, NumPy, PySpark
+* **Business Intelligence & Visualisation:** Power BI, DAX, Power Query, Tableau
+* **Data Engineering & Cloud:** Microsoft Fabric, Azure Data Factory, Databricks, Delta Lake
+* **Machine Learning:** Scikit-learn, K-Means, PCA, Random Forest, Gradient Boosting, Logistic Regression, Naïve Bayes, SVR
+* **Analytics:** EDA, Feature Engineering, Customer Analytics, Predictive Analytics, Forecasting, Churn Analysis, Cohort Analysis, NLP
+
+---
+
+# 🎓 Education
+
+## MSc Business Analytics
+
+**University of Nottingham**
+
+## Bachelor's in Computer Science
+
+**University of Mumbai**
+
+---
+
+# 💼 Professional Experience
+
+## Data Analyst / Data Engineer — Proventeq
+
+**Sep 2024 – Present**
+
+* Analysed **15+ Salesforce Certinia datasets** using SQL to identify performance trends, cost drivers and resource utilisation.
+* Developed and optimised **150+ SQL queries** for analytical and reporting requirements.
+* Automated reporting workflows using **Microsoft Fabric and Azure Data Factory**.
+* Supported data-driven operational and business decision-making.
+
+---
+
+# 📫 Connect with Me
+
+* 💼 **LinkedIn:** [Add LinkedIn Link]
+* 💻 **GitHub:** [Add GitHub Link]
+* 📧 **Email:** [Add Email]
